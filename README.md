@@ -1,2 +1,2 @@
 # shopsee.github.io
-An e-commerce fully responsive wensite created using HTML , CSS and Javascript
+An fully responsive static e-commerce website created using HTML , CSS and Javascript
